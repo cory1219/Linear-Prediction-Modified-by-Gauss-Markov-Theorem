@@ -1,1 +1,1 @@
-# Margin-Prediction-with-Gauss-Markov-Theorem
+# Linear Prediction modified-by-Gauss-Markov-Theorem
